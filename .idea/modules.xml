@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/experiment.iml" filepath="$PROJECT_DIR$/experiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/experiment-jetty/experiment-jetty.iml" filepath="$PROJECT_DIR$/experiment-jetty/experiment-jetty.iml" />
     </modules>
   </component>
 </project>

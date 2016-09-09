@@ -22,11 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="experiment" />
+        <module name="experiment-jetty" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="experiment" target="1.5" />
+      <module name="experiment-jetty" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
