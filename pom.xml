@@ -8,9 +8,5 @@
     <artifactId>experiment</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>experiment-jetty</module>
-    </modules>
-
 
 </project>

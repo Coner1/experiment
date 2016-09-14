@@ -3,14 +3,11 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
-  <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/experiment-jetty" />
-  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/experiment-jetty/pom.xml" />
+        <option value="$PROJECT_DIR$/experiment-http/pom.xml" />
       </list>
     </option>
   </component>
